@@ -15,6 +15,7 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -39,4 +40,9 @@ section {
     background-image: url(images/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
 
+}
+
+.second-banner {
+    background: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
 }
